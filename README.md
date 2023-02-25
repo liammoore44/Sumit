@@ -1,0 +1,2 @@
+# Sumit
+Text summarization application
