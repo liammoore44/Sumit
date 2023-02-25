@@ -9,7 +9,7 @@ class Summarizer(Resource):
     def post(self):
         header = request.headers['Authorization']
         json_data = request.get_json(force=True)
-
+        print(json_data)
         if not header:
             return {"Messege" : "No api key!"}, 400
         else:
@@ -21,7 +21,8 @@ class Summarizer(Resource):
                     note = json_data['note'],
                     retention= json_data['retention']
                 )
-                
+                print(json_data['note'])
+                print(note.note)
                 result = sumit(note.note, note.retention)
                 # result = Note.serialize(result)
                 return {"status": 'success', 'data': result}, 201

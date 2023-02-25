@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf3696b8-4add-4291-b411-d0031fd19f2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Sumit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/functions/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/Scanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/Scanner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/TypeOut.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/TypeOut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/summary.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/summary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrate.py" beforeDir="false" afterPath="$PROJECT_DIR$/migrate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/versions/79e0cb7511bc_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Note.py" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Note.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Register.py" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Signin.py" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Signin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/Summarize.py" beforeDir="false" afterPath="$PROJECT_DIR$/resources/Summarize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/User.py" beforeDir="false" afterPath="$PROJECT_DIR$/resources/User.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1nIhMHXT4juVC2w0Merw6Whs8Cr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf3696b8-4add-4291-b411-d0031fd19f2a" name="Default Changelist" comment="" />
+      <created>1611083462571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611083462571</updated>
+    </task>
+    <servers />
+  </component>
+</project>

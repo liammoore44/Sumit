@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd5c6570-594d-42b7-8d6f-a5cec5c813d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Sumit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/functions/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/functions/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/functions/Scanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/functions/Scanner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/functions/TypeOut.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/functions/TypeOut.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/functions/summary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/functions/summary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/migrate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/migrate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/migrations/versions/79e0cb7511bc_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/resources/Note.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/resources/Note.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/resources/Register.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/resources/Register.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/resources/Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/resources/Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/resources/Signin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/resources/Signin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/resources/Summarize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/resources/Summarize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/resources/User.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/resources/User.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sumit Backend/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sumit Backend/run.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mnbsU5l4eY0sTmWSdT8tuUwznI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/../../Pyhton/Sumit/Sumit Frontend/Sumit Frontend/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd5c6570-594d-42b7-8d6f-a5cec5c813d2" name="Default Changelist" comment="" />
+      <created>1610132508998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610132508998</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="25" width="1024" height="794" key="#Project_Structure" timestamp="1610883769721">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state x="208" y="25" width="1024" height="794" key="#Project_Structure/0.25.1440.794/-297.-1055.1920.1055@0.25.1440.794" timestamp="1610883769721" />
+    <state x="333" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610831958039">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state x="184" y="79" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.794@0.25.1440.794" timestamp="1610132985121" />
+    <state x="333" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.797/-297.-1055.1920.1055@0.25.1440.797" timestamp="1610831958039" />
+    <state x="221" y="56" key="SettingsEditor" timestamp="1610132720922">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state x="221" y="56" key="SettingsEditor/0.25.1440.794@0.25.1440.794" timestamp="1610132720922" />
+  </component>
+</project>

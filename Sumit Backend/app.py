@@ -6,7 +6,7 @@ from resources.Signin import Signin
 from resources.User import Users
 from resources.Search import NoteSearch, UserSearch
 from resources.Summarize import Summarizer
-
+from resources.Trade import MakeTrade
 
 
 api_bp = Blueprint('api', __name__)
@@ -25,4 +25,7 @@ api.add_resource(Summarizer, '/notes/summarize')
 api.add_resource(NoteSearch, '/notes/search/<search_term>')
 
 api.add_resource(UserSearch, '/users/search/<search_term>')
+
+api.add_resource(MakeTrade, '/trade')
+
 
